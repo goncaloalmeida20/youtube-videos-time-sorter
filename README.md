@@ -1,4 +1,4 @@
-# youtube-videos-time-sorter
+# Youtube videos time sorter
 This code sorts a list of youtube video URLs by time per video (ascendent)
 
 code.py - Only works with less than a day duration videos and don't get the video title.
